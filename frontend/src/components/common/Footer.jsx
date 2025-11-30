@@ -37,7 +37,7 @@ const Footer = () => {
             <h3 className="font-semibold text-white mb-4">Connect With Us</h3>
             <div className="flex space-x-4">
               <a 
-                href="https://www.instagram.com/arin_vk18" 
+                href="https://www.instagram.com/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-indigo-400 transition-colors"
@@ -45,7 +45,7 @@ const Footer = () => {
                 <Instagram />
               </a>
               <a 
-                href="https://www.linkedin.com/in/arin-pandey-74b872300" 
+                href="https://www.linkedin.com/in/yashtripathi39" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-indigo-400 transition-colors"
@@ -53,7 +53,7 @@ const Footer = () => {
                 <Linkedin />
               </a>
               <a 
-                href="https://github.com/ArinPandey" 
+                href="https://github.com/imyashhxhh"
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-indigo-400 transition-colors"
