@@ -67,7 +67,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-gray-700 text-center text-gray-500">
-          <p>&copy; {currentYear} Quizora. All Rights Reserved. By Arin Pandey</p>
+          <p>&copy; {currentYear} Quizora. All Rights Reserved. By Yash Tripathi</p>
         </div>
       </div>
     </footer>
