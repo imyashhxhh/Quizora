@@ -6,8 +6,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Live Demo**: [https://quizora-ai-quiz-app.vercel.app/](https://quizora-ai-quiz-app.vercel.app/)
-
 Quizora is a full-stack MERN application that leverages the power of generative AI to create interactive multiple-choice quizzes directly from user-uploaded PDF documents. It provides a seamless experience for both guests and registered users, featuring secure authentication and dynamic content generation.
 
 ## Features
