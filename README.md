@@ -9,7 +9,7 @@
 Quizora is a full-stack MERN application that leverages the power of generative AI to create interactive multiple-choice quizzes directly from user-uploaded PDF documents. It provides a seamless experience for both guests and registered users, featuring secure authentication and dynamic content generation.
 
 ## App's Screenshot
-"C:\Users\yasht\Pictures\Screenshots\Screenshot 2025-12-01 233830.png"
+<img width="1919" height="1000" alt="Screenshot 2025-12-01 233830" src="https://github.com/user-attachments/assets/13db29fd-5737-4244-acf3-58e5adcbcc98" />
 <img width="1918" height="999" alt="image" src="https://github.com/user-attachments/assets/64563b4b-ec7f-4bc2-a67b-981644735ba6" />
 
 
