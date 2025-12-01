@@ -40,9 +40,3 @@ Quizora is a full-stack MERN application that leverages the power of generative 
 -   Git
 
 ---
-
-## Deployment
-
--   **Frontend**: Deployed on **Vercel**, connected to the `main` branch of the GitHub repository.
--   **Backend**: Deployed on **Render** as a Web Service, also connected to the `main` branch.
--   **Database**: A free-tier cluster hosted on **MongoDB Atlas**.
